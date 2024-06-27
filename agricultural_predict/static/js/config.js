@@ -1,0 +1,1 @@
+export const URL_SERVER = "http://agricultural.io.vn:5001"
